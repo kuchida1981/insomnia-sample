@@ -1,20 +1,20 @@
 type: collection.insomnia.rest/5.0
 name: My first collection
 meta:
-  id: wrk_48b88bedc37d4f3d977811df59b92312
-  created: 1762395620570
-  modified: 1762395620570
+  id: wrk_5f20e31e7b074ffc8094406f20c9c079
+  created: 1762396735908
+  modified: 1762396735908
   description: ""
 collection:
   - url: ""
     name: My first request
     meta:
-      id: req_cb82d33fd94a4628b7194c38f8b7c415
-      created: 1762395620578
-      modified: 1762395620578
+      id: req_72e010d40e3c4f83975879581c48be3a
+      created: 1762396735913
+      modified: 1762396735913
       isPrivate: false
       description: ""
-      sortKey: -1762395620578
+      sortKey: -1762396735913
     method: GET
     headers:
       - name: User-Agent
@@ -30,13 +30,13 @@ collection:
 cookieJar:
   name: Default Jar
   meta:
-    id: jar_186dc826d48bb962cb8d948fc3a6668d7b758eaa
-    created: 1762395620576
-    modified: 1762395620576
+    id: jar_43a9389ed739dc43617c7aae2612e2cfe26d655b
+    created: 1762396735911
+    modified: 1762396735911
 environments:
   name: Base Environment
   meta:
-    id: env_186dc826d48bb962cb8d948fc3a6668d7b758eaa
-    created: 1762395620574
-    modified: 1762395620574
+    id: env_43a9389ed739dc43617c7aae2612e2cfe26d655b
+    created: 1762396735910
+    modified: 1762396735910
     isPrivate: false
